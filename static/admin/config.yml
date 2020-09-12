@@ -1,9 +1,8 @@
 backend:
-  name: test-repo
-
+  name: github
+  repo: Morganox/gatsby-netlify-okta
 media_folder: static/assets
 public_folder: assets
-
 collections:
   - name: blog
     label: Blog
